@@ -1,0 +1,16 @@
+Sample	Patient	SampleType	Response_Fedratinib
+A30212	100016	Primary AML	Responder
+A30231	100474	Primary AML	Partial Responder
+A31288	100348	Primary AML	Responder
+A31338	90454	Primary AML	Responder
+A31360	90543	Primary AML	Partial Responder
+A31372	90481	Primary AML	Partial Responder
+A31387	90668	Primary AML	Non Responder
+A31388	100274	Primary AML	Responder
+A31390	100454	Primary AML	Partial Responder
+A31406	100183	Primary AML	Responder
+A31428	110102	Primary AML	Non Responder
+A31432	110120	Primary AML	Responder
+A31459	110500	Primary AML	Responder
+A31467	110484	Primary AML	Non Responder
+A33903	100091	Primary AML	Responder
